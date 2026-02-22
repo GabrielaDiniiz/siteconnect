@@ -1,4 +1,4 @@
-import style from "./paginainicial.module.scss";
+import style from "./paginaInicial.module.scss";
 import banner from "../../assets/imagens/banner.png";
 const PaginaInicial = () => {
   return (
