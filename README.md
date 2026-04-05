@@ -1,16 +1,51 @@
-# React + Vite
+# 🌐 Site Connect - Conectando Oportunidades
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Preview do Projeto](https://raw.githubusercontent.com/GabrielaDiniiz/siteconnect/main/src/assets/imagens/banner.png)
 
-Currently, two official plugins are available:
+O **Site Connect** é uma plataforma desenvolvida para facilitar a conexão entre voluntários, mentores e doadores. Este projeto foi criado como parte da jornada de aprendizado no curso **Vai na Web**, utilizando as melhores práticas de desenvolvimento Front-end.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O projeto é composto por diversas seções estratégicas:
 
-## Expanding the ESLint configuration
+- **🏠 Home:** Página principal com banners e visão geral da plataforma.
+- **🤝 Voluntariado:** Espaço para engajamento em causas sociais.
+- **🎓 Mentoria:** Conexão entre jovens e profissionais das áreas Tech e Carreira.
+- **📅 Eventos:** Listagem e acompanhamento de eventos da comunidade.
+- **🎁 Doação:** Informações sobre como apoiar financeiramente ou com recursos.
+- **👤 Área do Usuário:** Interface personalizada para interação dos membros.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+Para este projeto, utilizei um stack moderno focado em performance e escalabilidade:
+
+- **[React.js](https://reactjs.org/):** Biblioteca principal para construção da interface.
+- **[Vite](https://vitejs.dev/):** Ferramenta de build para um ambiente de desenvolvimento ultra-rápido.
+- **[SASS/SCSS](https://sass-lang.com/):** Pré-processador para uma estilização mais organizada e poderosa.
+- **[CSS Modules](https://github.com/css-modules/css-modules):** Garante que os estilos sejam escopados e não gerem conflitos entre componentes.
+- **[JavaScript (ES6+)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript):** Lógica e interatividade.
+
+---
+
+## 📦 Como rodar o projeto localmente
+
+Para testar o projeto em sua máquina, siga os passos abaixo:
+
+1. **Clone este repositório:**
+
+   ```bash
+   git clone [https://github.com/GabrielaDiniiz/siteconnect.git](https://github.com/GabrielaDiniiz/siteconnect.git)
+
+   🔗 Link do Projeto
+   Você pode visualizar o site online aqui:
+   👉 siteconnect-delta.vercel.app
+   ```
+
+👤 Autora
+Desenvolvido por Gabriela Diniz 💜
+
+www.linkedin.com/in/gabriela-diniz-b94098360
