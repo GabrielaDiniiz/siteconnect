@@ -42,7 +42,7 @@ Para testar o projeto em sua máquina, siga os passos abaixo:
 
    🔗 Link do Projeto
    Você pode visualizar o site online aqui:
-   👉 siteconnect-delta.vercel.app
+   👉 https://siteconnect-delta.vercel.app
    ```
 
 👤 Autora
